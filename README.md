@@ -8,7 +8,7 @@ Bu depo, Kıbrıs Türk Polis Güçlendirme Vakfı için hazırlanan video odakl
 - `index.html` dosyasını çift tıklayarak veya bir web sunucusu üzerinden açın.
 - Video dosyasının `index.html` ile aynı klasörde olduğundan emin olun:
 
-  - `WhatsApp Video 2025-11-13 saat 18.59.29_1ba5093b (online-video-cutter.com).mp4`
+  - `WhatsApp Video 2025-11-13 saat 18.59.29_1ba5093b.mp4`
 
 ## Yayına Alma
 
